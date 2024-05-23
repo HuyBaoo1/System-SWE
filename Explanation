@@ -1,0 +1,5 @@
+Main.java starts the application.
+User.java and Subscription.java define data models.
+SubscriptionManager.java handles the management of subscriptions, including adding and removing subscriptions.
+WebsiteMonitor.java checks for updates at regular intervals using Timer and TimerTask.
+NotificationService.java sends notifications to users based on their preferences.
